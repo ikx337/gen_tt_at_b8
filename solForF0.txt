@@ -1,0 +1,6 @@
+Equation booléenne minimale :
+f0=
+c×!a0×!b0+
+!c×a0×!b0+
+!c×!a0×b0+
+c×a0×b0
